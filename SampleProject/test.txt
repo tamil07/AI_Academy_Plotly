@@ -1,0 +1,15 @@
+ Volume in drive C is OS
+ Volume Serial Number is 4097-B859
+
+ Directory of C:\Users\tamilarasan_j\PycharmProjects\SampleProject
+
+05/05/2020  12:31 PM    <DIR>          .
+05/05/2020  12:31 PM    <DIR>          ..
+05/04/2020  04:38 PM    <DIR>          .idea
+05/04/2020  04:10 PM           131,072 db.sqlite3
+05/04/2020  03:58 PM               654 manage.py
+05/05/2020  12:36 PM    <DIR>          MyApp
+05/05/2020  12:36 PM    <DIR>          SampleProject
+05/05/2020  12:43 PM                 0 test.txt
+               3 File(s)        131,726 bytes
+               5 Dir(s)  283,988,279,296 bytes free
